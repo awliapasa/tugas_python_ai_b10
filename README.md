@@ -1,1 +1,0 @@
-# tugas_python_ai_b10
